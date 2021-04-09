@@ -1,6 +1,5 @@
 this is new test
 
-
 for practice
 
 
@@ -16,8 +15,3 @@ adkfjlka
 
 
 이것이 진짜 메모장이다.
-
-
-this is for the new practice branch
-
-branch pull request
